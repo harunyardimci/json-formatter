@@ -1,5 +1,6 @@
-# json-formatter
-formats json files or json payloads
+# JSON Formatter
+
+## Note that everything in this repo is created by chatGPT. 
 
 Usage:
   json_formatter.py <filename>
