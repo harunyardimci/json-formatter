@@ -2,15 +2,19 @@
 
 ## Note that everything in this repo is created by chatGPT. 
 
-Usage:
-  json_formatter.py <filename>
-  json_formatter.py <json_string>
+## Usage:
 
-Examples:
-  json_formatter.py data.json
-  json_formatter.py '{"name": "John", "age": 30, "city": "New York"}'
+  `json_formatter.py <filename>`
+  
+  `json_formatter.py <json_string>`
 
-Description:
+## Examples:
+
+ `json_formatter.py data.json`
+ 
+ `json_formatter.py '{"name": "John", "age": 30, "city": "New York"}'`
+
+## Description:
   The JSON Formatter script reads a JSON file or a JSON string, formats it for
   readability, and prints the result to the console. The input can be provided
   as a filename or a JSON string. If a filename is provided, the script will
@@ -22,6 +26,7 @@ Description:
   message.
 
   Examples:
+  
     - To format a JSON file named data.json:
         json_formatter.py data.json
 
